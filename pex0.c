@@ -7,8 +7,13 @@
  * =========================================================== */
 #include <stdio.h>
 
-int main() {
-    
+int main(int argc, char *argv[]) {
+
+    //Part a
+    printf("Program name: %s\n");
+    if(argc == 2) {
+        
+    }
 
 
 }
